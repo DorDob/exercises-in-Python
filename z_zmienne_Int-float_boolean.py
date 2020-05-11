@@ -7,7 +7,7 @@ print("W McDonald's kupuje tylko kawe.")
 print("Moja ulubina książka to \"Wilk Stepowy\"")
 print('W McDonald\'s kupuje tylko kawe')
 
-bio1 = 'Nazywam się Dorota Dobrowolska.'
+bio1 = 'Nazywam się Dorota.'
 bio2 = 'Pracuje jako tester oprogramowania.'
 bio3 = 'lubie się uczyć'
 bio = bio2 + '\t' + bio2 + ' ' + bio3
